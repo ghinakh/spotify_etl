@@ -1,0 +1,11 @@
+.git
+.env
+.DS_Store
+__pycache__/
+.venv
+.conda/
+service_account_key.json
+*.json
+!schema.json
+
+

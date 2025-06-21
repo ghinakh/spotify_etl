@@ -11,7 +11,7 @@ username = "spotify_savedlive"
 password = "d2186b93179c18c4914375982028b84b303a06cc"
 
 # GCS config
-bucket_name = 'ghin-data-engineering-project-bucket'  # GCS bucket kamu (pakai dash, bukan underscore)
+bucket_name = 'ghin-data-engineering-project-bucket'  
 gcp_service_account_json = 'service_account_key.json'  # file JSON dari GCP
 
 destination_blob_name_songs = 'spotify/mysql_export/songs_export.json'  # path di GCS

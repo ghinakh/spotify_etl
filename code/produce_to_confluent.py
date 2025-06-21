@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1P0YuyEcIAU1OghtQtIkpBiAAWX9GKv0-
 """
 
-!pip install confluent-Kafka
+# !pip install confluent-Kafka
 
 from confluent_kafka import Producer
 import json

@@ -9,4 +9,4 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
-airflow_dag\include\astro-airflow-gcs.json
+**/include/astro-airflow-gcs.json

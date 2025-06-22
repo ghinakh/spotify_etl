@@ -19,3 +19,4 @@ __pycache__/
 
 # Sensitive
 service_account_key.json
+airflow_dag\include\astro-airflow-gcs.json

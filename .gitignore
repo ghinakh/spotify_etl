@@ -1,0 +1,21 @@
+# Virtual env & editor
+.env/
+.conda/
+.vscode/
+
+# Logs & temp
+*.log
+*.db
+*.sqlite3
+*.zip
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code & Notebook artifacts
+*.ipynb_checkpoints
+
+# Sensitive
+service_account_key.json

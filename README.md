@@ -1,0 +1,1 @@
+![architecture-of-spotify-etl-pipeline](solution_architecture.png "Spotify ETL Pipeline Architecture")

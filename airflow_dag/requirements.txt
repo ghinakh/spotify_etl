@@ -3,3 +3,5 @@ pandas
 pyarrow
 gcsfs
 google-cloud-storage
+google-cloud-bigquery
+pandas-gbq>=0.26.1

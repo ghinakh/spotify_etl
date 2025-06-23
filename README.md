@@ -24,6 +24,7 @@ Data stored in GCS (in JSON format) is scheduled and processed using Apache Airf
 
 ## **Tools & Technologies**
 - Apache Airflow (via Astronomer)
+- Docker
 - Google Cloud Storage (GCS)
 - Google BigQuery
 - MySQL (OLTP Simulation)

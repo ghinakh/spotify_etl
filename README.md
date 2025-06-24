@@ -24,6 +24,7 @@ Data stored in GCS (in JSON format) is scheduled and processed using Apache Airf
 
 ## **Tools & Technologies**
 - Apache Airflow (via Astronomer)
+- Docker
 - Google Cloud Storage (GCS)
 - Google BigQuery
 - MySQL (OLTP Simulation)
@@ -61,7 +62,7 @@ Data stored in GCS (in JSON format) is scheduled and processed using Apache Airf
 - Track Summary KPI: Total Streams per Track, Unique Listeners per Track, including additional information such as Artist, Genre, and Track Popularity.
     
 ## **Schedule**
-The pipeline is scheduled to run daily at 05:00 UTC (13:00 WIB).
+The pipeline is scheduled to run daily at 08:00 UTC (15:00 WIB).
 
 ## **Additional Notes**
 - This project is executed using local Airflow with Docker via Astronomer CLI.
